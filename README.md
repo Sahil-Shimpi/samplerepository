@@ -1,4 +1,4 @@
 # samplerepository
 Sample Repo for GDSC Workshop
 
-Thanks Sahil.
+Hi Sahil welcome to TechMate SCOE.
